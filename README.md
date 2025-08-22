@@ -45,9 +45,6 @@ The ultimate goal is to create a more efficient, accurate, and fair governance s
 - **Educational Resources**: Develop comprehensive learning materials about futarchy and prediction markets
 - **Community Governance**: Transition to full community ownership and decentralized development
 
-## Contract Address
-
-**Testnet Deployment**: `ST39N83NHSZ06V70VHFJM1T4NF8GEY535TN1CYK7C.FutarchySystem`
 
 ### Key Functions:
 
@@ -75,6 +72,10 @@ The ultimate goal is to create a more efficient, accurate, and fair governance s
 - Minimum stake requirements prevent spam proposals
 
 For technical support, integration questions, or governance proposals, please reach out through our community channels or submit issues to our development repository.
+
+## Contract Address
+
+**Testnet Deployment**: `ST39N83NHSZ06V70VHFJM1T4NF8GEY535TN1CYK7C.FutarchySystem`
 
 ### Delpoyment Transaction Screenshot 
 <img width="1885" height="931" alt="image" src="https://github.com/user-attachments/assets/176704e1-6269-4872-8f2f-134b316c0d7e" />
