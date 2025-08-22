@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: FutarchySystem
+            expected-sender: ST39N83NHSZ06V70VHFJM1T4NF8GEY535TN1CYK7C
+            cost: 40330
+            path: "contracts\\FutarchySystem.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
